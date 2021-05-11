@@ -10,5 +10,6 @@ For any depth i > 1, it can either:
 1. drill straight down
 2. drill down-left
 3. drill down-right
-It cannot drill down-right immediately after drilling down-left and it cannot drill down-left
-immediately after drilling down-right
+
+It is not able to drill down-right immediately after drilling down-left and it is also not able to drill down-left
+immediately after drilling down-right.
